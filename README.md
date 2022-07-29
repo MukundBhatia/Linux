@@ -1,3 +1,2 @@
-# Linux
-Problem Statement
+# Problem Statement
 Print Second line of a csv file.
