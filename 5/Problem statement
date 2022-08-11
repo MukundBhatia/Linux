@@ -1,0 +1,4 @@
+Count the number of lines that are different between two files.
+
+Test case1: two different files
+Test case2: same file
