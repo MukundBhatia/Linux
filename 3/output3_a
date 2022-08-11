@@ -1,0 +1,11 @@
+Enter file name
+Student.csv
+Does the file contain header?(Y/N)
+Y
+Name,ID,Maths,English,Hindi,Science,Social Science,total
+Raj,1001,40,68,56,70,67,301
+Sunil,1002,42,70,58,72,69,311
+Ram,1003,41,69,57,71,68,306
+Varun,1004,44,72,60,74,71,321
+Ramesh,1005,43,71,65,73,70,322
+
